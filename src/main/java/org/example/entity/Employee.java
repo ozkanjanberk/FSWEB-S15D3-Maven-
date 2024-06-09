@@ -1,7 +1,7 @@
 package org.example.entity;
 
 import java.util.Objects;
-
+//forgot to open actions.
 public class Employee {
     private int id;
     private String firstname;
